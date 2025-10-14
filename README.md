@@ -36,7 +36,7 @@ O projeto está organizado em pastas, cada uma contendo arquivos referentes a um
 ## Autor
 
 Raquell832
-Raquel da Silva Moura
+
 
 
 ---
