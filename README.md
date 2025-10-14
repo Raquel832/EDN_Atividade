@@ -35,7 +35,9 @@ O projeto está organizado em pastas, cada uma contendo arquivos referentes a um
 
 ## Autor
 
-Raquel832
+Raquell832
+Raquel da Silva Moura
+
 
 ---
 Este projeto é destinado ao aprendizado e aprimoramento das habilidades em Python.
